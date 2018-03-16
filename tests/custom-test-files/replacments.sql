@@ -1,0 +1,1 @@
+SELECT %_int1 + %_int2 AS 'Answer'
